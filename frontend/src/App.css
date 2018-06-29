@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: lightgrey;
+}
+
+::-webkit-input-placeholder {
+    color: #FFF;
+    opacity: 1 !important; /* for older chrome versions. may no longer apply. */
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #FFF;
+    opacity: 1 !important;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+    color: #FFF;
+    opacity: 1 !important;
+}
+
+:-ms-input-placeholder {  
+   color: #FFF;
+}
+
+.card-temperature{
+    color:#000;
+    font-size: 55px !important;
+}
+
+.temperature-item{
+    padding-bottom: 10px;
+    color:#000;
+    font-size: 26px !important;
+}
+.date-temperature-item{
+    color:#000;
+    font-size: 18px !important;
+}
+.box-size {
+    min-height: 80px;
+    max-height: 160px;
+    padding-bottom: 20px;
+    display: table-cell;
+    overflow: hidden;
+}
