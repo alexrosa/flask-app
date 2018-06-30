@@ -64,5 +64,5 @@ $ python 7shifts-api.py
 
 1 - Processing data;
 
-2 - Storage the data in a data base;
+2 - Storage the processed data into a database;
 
