@@ -62,7 +62,7 @@ $ python 7shifts-api.py
 
 # TODO LIST:
 
-1 - Processing data;
+1 - Processing data -> calculate hours;
 
 2 - Storage the processed data into a database;
 
