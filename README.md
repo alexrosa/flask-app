@@ -1,4 +1,4 @@
-# 7Shifts - Vanhackathon
+# Vanhackathon
 First of all, thank You for this opportunity!
 
 # Frontend application:
