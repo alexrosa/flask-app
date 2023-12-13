@@ -2,7 +2,7 @@
 First of all, thank You for this opportunity!
 
 # Frontend application:
-Let's start with NodeJS. It's really easy to install & now include NPM. You should be able to run the following command after the installation procedure below.
+Let's start with NodeJS. It's really easy to install & now includes NPM. You should be able to run the following command after the installation procedure below.
 
 $ node --version
 v10.5.0
@@ -34,7 +34,7 @@ $ npm run build
 The backend solution was developed using Python 3 and Flask and I picked it because Python and Flask is very light and fit very well with this task.
 
 # Installing Python on OSX:
-Please, first of all check if Python is installed in your system:
+Please, first of all, check if Python is installed in your system:
 
 $ which python
 
@@ -42,10 +42,10 @@ or
 
 $ which python3
 
-If this command returns /usr/bin/python it means that python is already installed in your system.
+If this command returns /usr/bin/python it means that Python is already installed in your system.
 
 # Installing Python
-Please, to install python follow this link: http://programwithus.com/learn-to-code/install-python3-mac/
+Please, to install Python follow this link: http://programwithus.com/learn-to-code/install-python3-mac/
 
 # Installing pip
 $ sudo easy_install pip
@@ -57,12 +57,11 @@ $ pip install -r requirements.txt
 # Running the application
 Open your command line
 
-$ cd ../7shifts
-$ python 7shifts-api.py
+$ python api.py
 
 # TODO LIST:
 
 1 - Processing data -> calculate hours;
 
-2 - Storage the processed data into a database;
+2 - Storage of the processed data in a database;
 
